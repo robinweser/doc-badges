@@ -18,6 +18,16 @@ I will add a lot of badges soon such as type badges for most languages.<br>Feel 
 ## Usage
 Every badge can be served from the GitHub repository right now.<br>
 Use the following link and just replace `%NAME%` with one of the names from above.
+```
+https://github.com/rofrischmann/doc-badges/blob/master/png/%NAME%.png
+```
+
+### Example
+```HTML
+<img src="https://github.com/rofrischmann/doc-badges/blob/master/png/private.png" height="20px">
+```
+<img src="https://github.com/rofrischmann/doc-badges/blob/master/png/private.png" height="20px">
+
 
 ## Sizing
 There are different recommendations how to size the badges depending on the usage.
