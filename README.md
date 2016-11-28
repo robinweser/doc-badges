@@ -7,6 +7,7 @@ A collection of useful badges to be used for project and API documentation.
 ## Badges
 | Badge | Name | Size |
 | --- | --- | --- |
+| <img src="png/experimental.png" height="20px"> | `experimental` | 224 x 37 |
 | <img src="png/deprecated.png" height="20px"> | `deprecated` | 224 x 37 |
 | <img src="png/private.png" height="20px"> | `private` | 165 x 37 |
 | <img src="png/native.png" height="20px"> | `native` | 150 x 37 |
